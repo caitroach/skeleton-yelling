@@ -13,3 +13,7 @@ thank you screaming skeleton, we say in unison
 - press "load unpacked"
 - select your folder
 - get yelled at by a skeleton
+
+## plagarism 
+this was inspired by @reinesana.ai on instagram, who also gets skyrim skeleton to yell at her for doomscrolling, but she used a CNN to track eye movement instead
+go check her out too i guess 
