@@ -6,3 +6,10 @@ screaming skeleton is your friend. screaming skeleton wants to help you.
 when you go onto twitter, or whatever site you choose, screaming skeleton will shield you from brain rot and start screaming. there is no way to close it except to get off of twitter.
 
 thank you screaming skeleton, we say in unison
+
+## how to run
+- download these files, put them in a folder, and go to chrome://extensions 
+- turn on developer mode 
+- press "load unpacked"
+- select your folder
+- get yelled at by a skeleton
