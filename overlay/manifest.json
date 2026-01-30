@@ -5,7 +5,7 @@
   "description": "Shows a video overlay on a certain site.",
   "content_scripts": [
     {
-      "matches": ["https://x.com/*", "https://reddit.com/*"],
+      "matches": ["https://x.com/*", "https://www.reddit.com/", "https://www.old.reddit.com/"],
       "js": ["content.js"],
       "css": ["overlay.css"],
       "run_at": "document_idle"
@@ -14,7 +14,7 @@
   "web_accessible_resources": [
     {
       "resources": ["skeleton.mp4"],
-      "matches": ["https://x.com/*", "https://reddit.com/*"]
+      "matches": ["https://x.com/*", "https://www.reddit.com/", "https://www.old.reddit.com/"]
     }
   ]
 }
