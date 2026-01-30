@@ -3,7 +3,7 @@ do you spend too much time on twitter? i do. introducing a modern, sleek, user-f
 
 screaming skeleton is your friend. screaming skeleton wants to help you. 
 
-when you go onto twitter, or whatever site you choose, screaming skeleton will shield you from brain rot and start screaming. there is no way to close it except to get off of twitter.
+when you go onto any of your blocked sites, screaming skeleton will shield you from brain rot and start screaming. there is no way to close it except to get off of twitter or whatever.
 
 thank you screaming skeleton, we say in unison
 
